@@ -3,14 +3,6 @@
 
 Sou desenvolvedor Python e atualmente focado em criar soluções eficientes e escaláveis. Além disso, sou apaixonado por jogos e estou sempre explorando novas formas de desenvolvimento de software.
 
-## 🚀 Tecnologias e Ferramentas que uso:
-- Python 🐍
-- Django 🌍
-- JavaScript 🛠️
-- HTML & CSS 🎨
-- Git & GitHub 🔧
-- SQL & Banco de Dados 📊
-
 ## 📈 Minhas estatísticas no GitHub:
 
 ![Hericlys GitHub stats](https://github-readme-stats.vercel.app/api?username=Hericlys&show_icons=true&theme=dracula&hide=issues,contribs&include_all_commits=true)
