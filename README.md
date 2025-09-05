@@ -1,14 +1,23 @@
-# Hericlys de Sá
-### Arquiteto de Software & Programador
+# Hericlys de Sá 
+### Arquiteto de Software, Programador e Educador
 
-Desenvolvo soluções de software eficientes e pragmáticas, com foco em automação de processos e arquiteturas sustentáveis como monólitos modulares. Minha filosofia é simples: aplicar a ferramenta certa para o problema, sem complexidade desnecessária.
+Desenvolvo soluções de software eficientes e pragmáticas, e sou apaixonado por compartilhar conhecimento, ajudando a formar novos desenvolvedores. Minha filosofia é simples: aplicar a ferramenta certa para o problema e ensinar os porquês de cada escolha.
 
 ---
 
 ### 🔭 Foco Atual
-* **Automação de Processos:** Criação de scripts e sistemas para otimizar tarefas repetitivas.
-* **Monólitos Modulares:** Projetando sistemas coesos, de fácil manutenção e prontos para evoluir.
+* **Criação de Conteúdo Técnico:** Desenvolvendo artigos e tutoriais sobre arquitetura e programação.
 * **Pragmatismo em Arquitetura:** "Não matar um mosquito com uma bazuca" — escolhendo a complexidade certa para cada desafio.
+* **Monólitos Modulares:** Projetando sistemas coesos, de fácil manutenção e prontos para evoluir.
+* **Automação de Processos:** Criação de scripts e sistemas para otimizar tarefas repetitivas.
+
+### 📚 Compartilhando Conhecimento
+Acredito que a melhor forma de solidificar o conhecimento é compartilhando-o. Estou sempre aberto para trocar ideias, escrever artigos e participar de eventos.
+
+
+* **🎤 Palestras:** Disponível para palestrar sobre Monólitos Modulares, Automação com Python e Boas Práticas de Arquitetura.
+* **💬 Mentorias:** Aberto a mentorar desenvolvedores que estão começando na carreira. Entre em contato!
+
 
 ### 🛠️ Tecnologias & Ferramentas
 
